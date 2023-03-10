@@ -14,7 +14,7 @@ I'm Eric Schulte. Great to meet you.
 - Developing my knowledge of AWS, Python, distributed systems
 
 ## Some fun side projects:
-1. Stemming from an interest in diamonds and conflict minerals, I built an [Ethereum implementation of the Kimberley Process Certification Scheme (back in 2016)](https://github.com/triage/KPCSEthereum) to solve the issue of fraudulent certificates accompany rough diamond shipments.
+1. Stemming from an interest in diamonds and conflict minerals, I built an [Ethereum implementation of the Kimberley Process Certification Scheme (back in 2016)](https://github.com/triage/KPCSEthereum) to solve the issue of fraudulent certificates accompanying rough diamond shipments.
 2. While at ClassPass, [I built a decentralized booking platform for the studio fitness industry](https://github.com/triage/Jumbo)
 3. I built a [SwiftUI app for tracking progressive overload](https://github.com/triage/Heavier)
 
