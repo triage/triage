@@ -18,6 +18,5 @@ I'm Eric Schulte. Great to meet you.
 2. While at ClassPass, [I built a decentralized booking platform for the studio fitness industry](https://github.com/triage/Jumbo)
 3. I built a [SwiftUI app for tracking progressive overload](https://github.com/triage/Heavier)
 
-<img src="https://user-images.githubusercontent.com/160455/224384401-2a4e52ff-3b52-4329-a0ce-e194101f58d0.png" alt="affirm" height="100" /> <img src="https://user-images.githubusercontent.com/160455/224384454-ac5f44df-7f9c-46c5-94fa-48049524a43c.png" alt="fast" height="100" /> <img src="https://user-images.githubusercontent.com/160455/224384455-ed625bb5-9084-4ec9-89d7-50baabc77b45.png" alt="classpass" height="100" /> <img src="https://user-images.githubusercontent.com/160455/224384449-90c9c6ad-6559-4d52-8d4a-65478e3cdf56.png" alt="learnvest" height="100" /> <img src="https://user-images.githubusercontent.com/160455/224384451-9d84b694-f8ef-4ce0-80f7-126e0fcd1d86.png" alt="clarity" height="100" /> <img src="https://user-images.githubusercontent.com/160455/224384452-976c86dd-0e37-4df8-afb9-e86d9545398f.png" alt="yieldstreet" height="100" />
-
+## I have fun:
 ![spray](https://user-images.githubusercontent.com/160455/224382726-50e2ceb2-4fd3-4730-b1f5-fed9b2ebc4bf.jpg)
