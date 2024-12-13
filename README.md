@@ -2,12 +2,10 @@
 I'm Eric Schulte. Great to meet you.
 
 ## A little about me:
-- Over 20 years in software engineering and leadership of full-stack teams
+- Software engineering and leadership of full-stack teams
 - Significant experience in early and growth-stage companies, from pre-seed to unicorn
 - Deep knowledge of FinTech (Affirm, Fast, LearnVest, Clarity Money, YieldStreet, Cover)
-- Staff-level mobile engineer (iOS: Swift + React Native, React)
-- Published 8 apps to the App Store, 4 featured (ClassPass, LearnVest, Clarity Money, Grouper)
-- Proficient in smart contract development (Solidity) due to early Ethereum adoption (2015)
+- Staff mobile engineer (iOS: Swift + React Native, React)
 - Truly enjoy programming, though having much fun building teams and growing engineers
 
 ## Currently:
